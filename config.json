@@ -1,0 +1,136 @@
+{
+  "albumName": "Однажды в Сказке",
+  "artist": "Витрина Разбита",
+  "albumYear": 2025,
+  "background": "img/bg.jpg",
+  "promoCode": "VITRINA2025",
+  "donateLink": "https://yoomoney.ru/to/ВАШ_СЧЁТ_ЯНДЕКС",
+  "socials": [
+    {"title": "YouTube", "url": "https://www.youtube.com/channel/UCbjm1J0V8RkWvNj4Z8-JIhA/"},
+    {"title": "Telegram", "url": "https://t.me/vitrina_razbita"},
+    {"title": "VK", "url": "https://vk.com/apelsinov"},
+    {"title": "TikTok", "url": "https://www.tiktok.com/@vi3na1bita"}
+  ],
+  "tracks": [
+    {
+      "uid": "OS-01",
+      "title": "Как Гермиона Грейнджер",
+      "audio": "audio/01.mp3",
+      "lyrics": "lyrics/01.json",
+      "size": 11.79,
+      "fulltext": "lyrics/01.txt"
+    },
+    {
+      "uid": "OS-02",
+      "title": "Трусливый Парень",
+      "audio": "audio/02.mp3",
+      "lyrics": "lyrics/02.json",
+      "size": 13.04,
+      "fulltext": "lyrics/02.txt"
+    },
+    {
+      "uid": "OS-03",
+      "title": "Заклинание Добра",
+      "audio": "audio/03.mp3",
+      "lyrics": "lyrics/03.json",
+      "size": 13.40,
+      "fulltext": "lyrics/03.txt"
+    },
+    {
+      "uid": "OS-04",
+      "title": "Последний День",
+      "audio": "audio/04.mp3",
+      "lyrics": "lyrics/04.json",
+      "size": 15.65,
+      "fulltext": "lyrics/04.txt"
+    },
+    {
+      "uid": "OS-05",
+      "title": "Зазеркалье Души",
+      "audio": "audio/05.mp3",
+      "lyrics": "lyrics/05.json",
+      "size": 13.89,
+      "fulltext": "lyrics/05.txt"
+    },
+    {
+      "uid": "OS-06",
+      "title": "Мумия",
+      "audio": "audio/06.mp3",
+      "lyrics": "lyrics/06.json",
+      "size": 11.43,
+      "fulltext": "lyrics/06.txt"
+    },
+    {
+      "uid": "OS-07",
+      "title": "Коварство",
+      "audio": "audio/07.mp3",
+      "lyrics": "lyrics/07.json",
+      "size": 14.57,
+      "fulltext": "lyrics/07.txt"
+    },
+    {
+      "uid": "OS-08",
+      "title": "Сумерки",
+      "audio": "audio/08.mp3",
+      "lyrics": "lyrics/08.json",
+      "size": 12.37,
+      "fulltext": "lyrics/08.txt"
+    },
+    {
+      "uid": "OS-09",
+      "title": "Лунный Круг",
+      "audio": "audio/09.mp3",
+      "lyrics": "lyrics/09.json",
+      "size": 12.17,
+      "fulltext": "lyrics/09.txt"
+    },
+    {
+      "uid": "OS-10",
+      "title": "Нити Судьбы",
+      "audio": "audio/10.mp3",
+      "lyrics": "lyrics/10.json",
+      "size": 13.61,
+      "fulltext": "lyrics/10.txt"
+    },
+    {
+      "uid": "OS-11",
+      "title": "Две Души",
+      "audio": "audio/11.mp3",
+      "lyrics": "lyrics/11.json",
+      "size": 16.51,
+      "fulltext": "lyrics/11.txt"
+    },
+    {
+      "uid": "OS-12",
+      "title": "Ветерок",
+      "audio": "audio/12.mp3",
+      "lyrics": "lyrics/12.json",
+      "size": 12.21,
+      "fulltext": "lyrics/12.txt"
+    },
+    {
+      "uid": "OS-13",
+      "title": "Уроки Музыки",
+      "audio": "audio/13.mp3",
+      "lyrics": "lyrics/13.json",
+      "size": 13.48,
+      "fulltext": "lyrics/13.txt"
+    },
+    {
+      "uid": "OS-14",
+      "title": "Однажды в Сказке",
+      "audio": "audio/14.mp3",
+      "lyrics": "lyrics/14.json",
+      "size": 13.48,
+      "fulltext": "lyrics/14.txt"
+    },
+    {
+      "uid": "OS-15",
+      "title": "Снежинка",
+      "audio": "audio/15.mp3",
+      "lyrics": "lyrics/15.json",
+      "size": 13.26,
+      "fulltext": "lyrics/15.txt"
+    }
+  ]
+}
